@@ -1,0 +1,95 @@
+2018-11-21 09:45:00,797 ERROR       pool-11-thread-1|          MessageSystem| eMail Transport Error java.lang.IllegalStateException: Please use [mailserver] option first
+2018-11-21 11:13:38,662 ERROR       pool-11-thread-1|          MessageSystem| eMail Transport Error java.lang.IllegalStateException: Please use [mailserver] option first
+2018-11-21 11:50:04,462 ERROR       pool-3-thread-21|    SyncMessageConsumer| Async msg handling error: Print request does not contain any job.
+2018-11-21 12:00:20,056 ERROR       pool-3-thread-21|    SyncMessageConsumer| Async msg handling error: Print request does not contain any job.
+2018-11-21 15:25:38,062 ERROR       pool-11-thread-1|          MessageSystem| eMail Transport Error javax.mail.MessagingException: Could not connect to SMTP host: smtp.office365.com, port: 587;
+2018-11-21 15:34:24,539 ERROR       pool-11-thread-1|          MessageSystem| eMail Transport Error javax.mail.MessagingException: Could not connect to SMTP host: smtp.office365.com, port: 587;
+2018-11-21 15:54:14,868 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitRetry'. Returning default: 'null'
+2018-11-21 15:54:14,868 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitSleep'. Returning default: 'null'
+2018-11-21 15:54:14,869 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'serverGUID2'. Returning default: 'null'
+2018-11-21 15:54:39,742 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'commandExecutorPoolSize'. Returning default: 'null'
+2018-11-21 15:54:40,885 ERROR        pool-3-thread-1|    SyncMessageConsumer| Async msg handling error: null
+2018-11-21 15:54:41,043 ERROR        pool-3-thread-2|    SyncMessageConsumer| Async msg handling error: null
+2018-11-21 15:54:43,684 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:46,794 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:50,010 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:50,279 ERROR        pool-3-thread-2|    SyncMessageConsumer| Async msg handling error: null
+2018-11-21 15:54:53,140 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:53,244 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:56,290 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:56,358 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:59,409 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:54:59,479 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:55:02,526 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:55:02,596 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:55:05,675 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:55:05,860 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 15:55:05,966 ERROR             StartUpThr|          StartUpThread| ORS Node startup failed
+2018-11-21 16:05:25,186 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitRetry'. Returning default: 'null'
+2018-11-21 16:05:25,186 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitSleep'. Returning default: 'null'
+2018-11-21 16:05:25,187 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'serverGUID2'. Returning default: 'null'
+2018-11-21 16:05:27,354 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:27,344 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:27,363 ERROR        pool-3-thread-3|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:30,578 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:30,587 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:30,589 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:33,706 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:33,806 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:33,856 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:05:36,858 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:36,939 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:36,973 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:40,055 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:40,065 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:40,090 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:43,222 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:43,243 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:43,249 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:46,367 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:46,373 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:46,392 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:49,553 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:49,551 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:49,570 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:49,898 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'commandExecutorPoolSize'. Returning default: 'null'
+2018-11-21 16:05:52,661 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:52,689 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:05:52,700 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:07:12,254 ERROR           MessagingTh1|     ByteMessageChannel| Peer closed
+2018-11-21 16:07:12,255 ERROR           MessagingTh1|       BMCMessagingPort| Unable to read next message. Error while communicating with /172.16.1.251:6010
+2018-11-21 16:07:12,258 ERROR           MessagingTh1|        MessagingThread| Exception occurred on MessagingPort MP[true,SC:eu.ysoft.communicator.PlainSocketChannel@1280410a,S:working,ID:1,O: R,R:19,W:false,C:I: 192/O: 170/W: 0]... Closing port registred in MessagingThread[ID: 1, is-stop: false, selector-open: true, detachedPorts: 0]
+2018-11-21 16:07:12,258 ERROR           MessagingTh1|        MessagingThread| Error: Peer closed
+2018-11-21 16:10:22,147 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitRetry'. Returning default: 'null'
+2018-11-21 16:10:22,147 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitSleep'. Returning default: 'null'
+2018-11-21 16:10:22,148 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'serverGUID2'. Returning default: 'null'
+2018-11-21 16:11:01,265 ERROR        pool-3-thread-2|    SyncMessageConsumer| Async msg handling error: null
+2018-11-21 16:11:04,108 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:11:07,213 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:11:10,329 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:11:13,550 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:11:15,181 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'commandExecutorPoolSize'. Returning default: 'null'
+2018-11-21 16:11:16,663 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:11:19,781 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:17:53,438 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitRetry'. Returning default: 'null'
+2018-11-21 16:17:53,438 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'communicatorSyncWaitSleep'. Returning default: 'null'
+2018-11-21 16:17:53,439 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'serverGUID2'. Returning default: 'null'
+2018-11-21 16:17:55,940 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:17:56,785 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:17:59,080 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:17:59,901 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:18:02,257 ERROR        pool-3-thread-1|    SyncMessageConsumer| Sync msg handling error: ManagerFacade has not been initialized
+2018-11-21 16:18:03,020 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:05,394 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:06,213 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:08,516 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:09,265 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:11,640 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:12,500 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:14,847 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:15,627 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:17,601 ERROR             StartUpThr|      ConfigurationImpl| Requested property not available in cache. Key = 'commandExecutorPoolSize'. Returning default: 'null'
+2018-11-21 16:18:17,884 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:18,750 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:21,015 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
+2018-11-21 16:18:21,970 ERROR        pool-3-thread-2|    SyncMessageConsumer| Sync msg handling error: null
